@@ -1,4 +1,4 @@
-﻿# Fouad
+# Fouad
 
 Growth marketer, product builder, and developer based in Paris.
 
@@ -13,6 +13,7 @@ I run [growthmaker.fr](https://growthmaker.fr), where I combine data, CRO, and e
 | **SEO Toolkit** | On-page SEO analyzer, Google SERP simulator, and Schema.org builder. | JavaScript, HTML/CSS | [View Project](https://github.com/foverse/seo-toolkit) / [Live Demo](https://foverse.github.io/seo-toolkit/) |
 | **Roamly** | Programmatic travel eSIM comparison engine with multilingual routing. | Next.js, React 19, TypeScript | [View Project](https://github.com/foverse/roamly-esim-comparison) |
 | **NeuroLingo** | Adaptive spaced repetition engine and language practice app. | JavaScript, SM-2, Web Speech API | [View Project](https://github.com/foverse/neurolingo) / [Live Demo](https://foverse.github.io/neurolingo/) |
+| **AI CV Adapt** | Match your resume to any job description with live ATS keyword alignment and PDF export. | JavaScript, Vite, Node.js | [View Project](https://github.com/foverse/ai-cv-adapt) / [Live Demo](https://foverse.github.io/ai-cv-adapt/) |
 | **Joby** | AI-driven resume tailoring and application tracking engine. | Node.js, JavaScript, Express | [View Project](https://github.com/foverse/joby) |
 | **Growthmaker Lab** | Articles, benchmarks, and experimental scripts on CRO and analytics. | Markdown, Web | [growthmaker.fr](https://growthmaker.fr) |
 
