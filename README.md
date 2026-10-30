@@ -1,4 +1,4 @@
-# Fouad Sennouni
+﻿# Fouad
 
 Growth marketer, product builder, and developer based in Paris.
 
