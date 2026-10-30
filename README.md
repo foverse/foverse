@@ -11,8 +11,8 @@ I run [growthmaker.fr](https://growthmaker.fr), where I combine data, CRO, and e
 | Project | What it does | Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **SEO Toolkit** | On-page SEO analyzer, Google SERP simulator, and Schema.org builder. | JavaScript, HTML/CSS | [View Project](https://github.com/foverse/seo-toolkit) / [Live Demo](https://foverse.github.io/seo-toolkit/) |
+| **Roamly** | Programmatic travel eSIM comparison engine with multilingual routing. | Next.js, React 19, TypeScript | [View Project](https://github.com/foverse/roamly-esim-comparison) |
 | **Joby** | AI-driven resume tailoring and application tracking engine. | Node.js, JavaScript, Express | [View Project](https://github.com/foverse/joby) |
-| **eSIM Travel Compare** | Programmatic directory and pricing aggregator for travel data plans. | Next.js, React, TypeScript | Coming soon |
 | **Growthmaker Lab** | Articles, benchmarks, and experimental scripts on CRO and analytics. | Markdown, Web | [growthmaker.fr](https://growthmaker.fr) |
 
 ---
